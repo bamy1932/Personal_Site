@@ -15,6 +15,12 @@ body {
 .mission {
   width: 30%;
 }
+.photo {
+  display: wrap;
+  border: dashed;
+  border-width: medium;
+  border-color: darkblue;
+}
 .quote {
   font-family: cursive;
   text-align: center;
@@ -27,5 +33,4 @@ body {
 }
 .portfolio {
   font-family: "Times New Roman", Times, serif;
-  
 }
